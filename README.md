@@ -1,3 +1,3 @@
 # ClubWebSite
 Our mission with this project is...
-We are working together to create a website for the CSci Club that promotes diversity and inclusion amount students while sharing club events, club goals and club projects with the CSU Fresno community. 
+We are working together to create a website for the CSci Club that promotes diversity and inclusion among students while sharing club events, club goals and club projects with the CSU Fresno community. 
