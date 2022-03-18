@@ -1,0 +1,17 @@
+.cards-container {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-decoration: underline;
+}

@@ -1,0 +1,9 @@
+.banner {
+    color: red; 
+    font-size: xx-large;
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    padding:  100px; 
+    font-weight: bold;
+}
