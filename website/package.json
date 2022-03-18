@@ -1,6 +1,6 @@
 {
-  "homepage": "http://cscifresnostate.github.io/clubwebsite",
-  "name": "prac1",
+  "homepage": "http://cscifresnostate.github.io/ClubWebSite",
+  "name": "clubwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

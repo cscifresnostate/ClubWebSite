@@ -8,7 +8,7 @@ const Landing = (props) => {
     return (
         <div> 
             <SlideShow />
-            <Banner motto="This is the motto!" /> 
+            <Banner motto="Our Motto is to: !" /> 
         </div>
     )
 }
