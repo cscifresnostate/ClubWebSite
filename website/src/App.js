@@ -21,7 +21,7 @@ const App = () => {
           <Route path="*"
             element={
               <main style={{ padding: "1rem" }}>
-                <p>There's nothing here try another page!</p>
+                <p>There's nothing here, try another page!</p>
               </main>
             }
           />
