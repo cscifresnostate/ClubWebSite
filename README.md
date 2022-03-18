@@ -8,7 +8,7 @@
  <h3 align="center">club events, club goals and club projects with the CSU Fresno community.</h3>
 
 <div align="center">
-  <a href="https://cscifresnostate.github.io/ClubWebSite/#/proj1">
+  <a href="https://cscifresnostate.github.io/ClubWebSite/">
     <img src="https://github.com/cscifresnostate/ClubWebSite/blob/main/small%20logo.PNG" alt="Logo" width="200" height="200">
   </a>
   
