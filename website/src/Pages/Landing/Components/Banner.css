@@ -1,9 +1,57 @@
 .banner {
-    color: red; 
+    color: black; 
     font-size: xx-large;
     display: flex; 
     flex-direction: row;
+    justify-content: space-evenly;
+    padding:  80px; 
+    border: 1px solid #ccc;
+    flex-wrap: wrap;
+}
+
+.text-banner {
+    font-size: 20px;
+    height: auto; 
+    width: 650px;
+    color: black;
+    display: flex; 
+    flex-direction: column;
     justify-content: center;
-    padding:  100px; 
-    font-weight: bold;
+    font-style: italic;
+}
+
+@keyframes spin3D {
+    from { transform: rotateY(0deg) }
+    to { transform: rotateY(360deg) }
+}
+
+.img {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+}
+
+@keyframes spinning {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+ }
+
+.imgSpin_Y {
+    animation-name: spinning;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+}
+
+.imgSpin_Z {
+    animation-name: spin3D;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+}
+
+.banner-header {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 60px;
 }

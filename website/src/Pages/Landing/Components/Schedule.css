@@ -1,0 +1,43 @@
+.container-schedule {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.title-schedule {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 100px;
+}
+
+.left-schedule {
+    display: flex;
+    flex-direction: column;
+    
+    flex: 1;
+}
+
+.right-schedule {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding-right: 10px;
+}
+
+.text-schedule {
+    color: black;
+    font-style: normal;
+    font-size: medium;
+    flex-wrap: wrap;
+}
+
+.imgCal {
+    width: auto;
+}
+
+.wrap-schedule {
+    display: flex;
+    flex-direction: row;
+}

@@ -1,12 +1,13 @@
 import './App.css';
-import Navbar from './Util/Navbar';
+import Navbar from './Components/Navbar';
+import Footer from './Components/Footer'; 
 import Landing from './Pages/Landing/Landing'; 
 import Proj1 from './Pages/2022/Proj1/Proj1';
 import Proj2 from './Pages/2022/Proj2/Proj2';
 import About from './Pages/About/About'
 import { Route, Routes } from "react-router-dom"; 
-import { About_path, Home_path, Proj1_path, Proj2_path } from './Util/constants';
-import {Button} from 'react-bootstrap';
+import { About_path, Home_path, Proj1_path, Proj2_path } from './Components/constants';
+
 
 
 const App = () => {
@@ -26,7 +27,7 @@ const App = () => {
             }
           />
         </Routes>
-        <Button>  </Button>
+        <Footer />
     </div>
   );
 }

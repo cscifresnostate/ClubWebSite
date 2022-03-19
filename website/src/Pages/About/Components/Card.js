@@ -1,5 +1,5 @@
 import React from 'react'
-import placeholder from '../../../Util/placeholder.png';
+import placeholder from '../Util/placeholder.png';
 import {Card, Button} from 'react-bootstrap';
 import PropTypes from 'prop-types';
 

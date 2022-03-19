@@ -1,15 +1,24 @@
 import React from 'react'; 
 import {Navbar, Container, Nav, NavDropdown} from 'react-bootstrap'; 
 import { Link } from 'react-router-dom';
-import {Proj1_path, Proj2_path, About_path, Home_path} from '../Util/constants'; 
+import {Proj1_path, Proj2_path, About_path, Home_path} from '../Components/constants'; 
+import Icon from '../Util/logo.png'; 
 
 const NavigationBar = (props) => {    
 
 
     return (
-        <Navbar bg="light" expand='lg'>
+        <Navbar sticky="top" bg="light" expand='lg'>
           <Container fluid>
-            <Navbar.Brand as={Link} to={Home_path}>CSUF Computer Science Club</Navbar.Brand>
+
+            <Navbar.Brand as={Link} to={Home_path}>              
+            <img
+                className='w-auto'
+                style={{height: 30}}
+                  src={Icon}
+                  alt="Icon"
+              />
+              CSUF Computer Science Club</Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarScroll" />
             <Navbar.Collapse id="navbarScroll">
               <Nav

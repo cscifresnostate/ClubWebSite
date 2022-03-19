@@ -1,0 +1,18 @@
+{
+    "mission": {
+        "mainText": "\"...learn how to use Computer Science skills to accomplish goals that will provide valuable resources in our journey to becoming tech professionals. Our mission is to provide a fun and welcoming place for all of the Fresno State Community to come learn about Computer Science and practice important tech skills.\"",
+        "header": "Our Mission Is To...",
+        "direction": true,
+        "spinType": "imgSpin_Z", 
+        "style": "img", 
+        "height": 250
+    },
+    "events": {
+        "mainText": "Learn React.js, Unity, Version Control with Github and Git, code with other students, setting up nodejs, working with npm packages, and learning the basics of javascript. If you have any specific technology that you would like to know please suggest it to the club officers!",
+        "header": "Join to learn industry techonologies!",
+        "direction": false,
+        "spinType": "imgSpin_Y",
+        "style": "imgSpin_Y",
+        "height": 300 
+    }
+}
