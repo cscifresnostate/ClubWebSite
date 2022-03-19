@@ -3,37 +3,43 @@
         "name": "Eric", 
         "position": "President", 
         "year": "3rd", 
-        "tech": "Vr, Game Dev, C++"
+        "tech": "Vr, Game Dev, C++",
+        "githubLink": ""
     },
     {
         "name": "Chris", 
-        "position": "??", 
+        "position": "Vice President", 
         "year": "??", 
-        "tech": "??"
+        "tech": "??",
+        "githubLink": ""
     },    
     {
         "name": "Charith", 
         "position": "Tresuary", 
         "year": "??", 
-        "tech": "??"
+        "tech": "??",
+        "githubLink": ""
     },
     {
         "name": "Emmy", 
         "position": "Social Media", 
         "year": "??", 
-        "tech": "??"
+        "tech": "??",
+        "githubLink": ""
     },
     {
         "name": "Jorge", 
         "position": "Secretary", 
         "year": "4th", 
-        "tech": "Web Dev, and Vr"
+        "tech": "Web Dev, and Vr",
+        "githubLink": "https://github.com/JorgeOchoaReyes"
     },
     {
         "name": "Travis", 
         "position": "Specialist In React", 
         "year": "4th", 
-        "tech": "Web Dev, Fullstack"
+        "tech": "Web Dev, Fullstack",
+        "githubLink": ""
     }
     
 ] 

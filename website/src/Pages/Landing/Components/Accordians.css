@@ -1,0 +1,20 @@
+.img-accord {
+    width: auto; 
+    border-radius: 10px;
+}
+
+.accord-container {
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.sub-container {
+    border: 1px solid #ccc;
+}
+
+.wrapper-accord {
+    
+}

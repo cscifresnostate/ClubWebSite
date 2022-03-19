@@ -34,10 +34,10 @@ const NavigationBar = (props) => {
                     Project 1
                   </NavDropdown.Item>
 
-                  <NavDropdown.Divider />
+                  {/* <NavDropdown.Divider />
                   <NavDropdown.Item as={Link} to={Proj2_path}>
-                    Porject 2
-                  </NavDropdown.Item>
+                    Project 2
+                  </NavDropdown.Item> */}
 
                 </NavDropdown>
 

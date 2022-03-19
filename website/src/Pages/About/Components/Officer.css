@@ -5,6 +5,7 @@
     flex-wrap: wrap;
     padding-left: 5px;
     padding-right: 5px;
+    width: 50%;
 }
 
 .title {
@@ -14,4 +15,10 @@
     font-weight: bolder;
     font-size: xx-large;
     text-decoration: underline;
+}
+
+.officer-center {
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
 }

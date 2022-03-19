@@ -2,7 +2,20 @@ import React from "react";
 import './Footer.css';
 import {Nav} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import {Proj1_path, Proj2_path, About_path, Home_path} from '../Components/constants'; 
+import {
+  Proj1_path, 
+  Proj2_path, 
+  About_path, 
+  Home_path, 
+  youtube_link,
+  instagram_link,
+  github_link, 
+  discord_link, 
+  tiktok_link,
+  feedbackSurvey_link, 
+  request_link, 
+  officerApply_link
+} from '../Components/constants'; 
 
 
 const Footer = () => {
@@ -20,19 +33,19 @@ const Footer = () => {
 
         <div> 
             <p className="footer-text"> Social Links: </p>
-            <p> <a href=''> Youtube </a> </p>
-            <p> <a href=''> Discord </a> </p>
-            <p> <a href=''> Github </a> </p>
-            <p> <a href=''> Instagram </a> </p>
-            <p> <a href=''> TikTok </a> </p>
+            <p> <a href={youtube_link}> Youtube </a> </p>
+            <p> <a href={discord_link}> Discord </a> </p>
+            <p> <a href={github_link}> Github </a> </p>
+            <p> <a href={instagram_link}> Instagram </a> </p>
+            <p> <a href={tiktok_link}> TikTok </a> </p>
 
         </div>
 
         <div> 
             <p className="footer-text"> Have feedback or Request? </p>
-            <p> <a href=''> Fill Out This Survey To Give Feedback. </a> </p>
-            <p> <a href=''> Make Request For A Workshop </a> </p>
-            <p> <a href=''> Apply for officer positons </a> </p>
+            <p> <a href={feedbackSurvey_link}> Fill Out This Survey To Give Feedback. </a> </p>
+            <p> <a href={request_link}> Make Request For A Workshop </a> </p>
+            <p> <a href={officerApply_link}> Apply for officer positons </a> </p>
 
         </div>
 

@@ -2,6 +2,7 @@ import React from 'react';
 import SlideShow from './Components/Slideshow';
 import Banner from './Components/Banner';
 import Schedule from './Components/Schedule';
+import Fountains from './Components/Accordians'; 
 import FresnoStateLogo from './Util/fslogo.png'; 
 import TechLogo from './Util/techs.png';
 import Data from './Util/text_landing.json'; 
@@ -32,6 +33,8 @@ const Landing = (props) => {
             /> 
 
             <Schedule />
+
+            <Fountains />
             
         </div>
     )
