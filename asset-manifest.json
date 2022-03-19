@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ClubWebSite/static/css/main.3ab525ad.css",
-    "main.js": "/ClubWebSite/static/js/main.9950b8f9.js",
+    "main.css": "/ClubWebSite/static/css/main.94bc2f90.css",
+    "main.js": "/ClubWebSite/static/js/main.f0ad3b50.js",
     "static/js/787.8385a471.chunk.js": "/ClubWebSite/static/js/787.8385a471.chunk.js",
     "static/media/logo.png": "/ClubWebSite/static/media/logo.cfa3e0f750fc1e9ecdb2.png",
     "static/media/workshop_2.jpg": "/ClubWebSite/static/media/workshop_2.7927484146ad3aff1cdc.jpg",
@@ -10,12 +10,12 @@
     "static/media/fslogo.png": "/ClubWebSite/static/media/fslogo.65555d5008a44f330d0e.png",
     "static/media/techs.png": "/ClubWebSite/static/media/techs.f18075477e89f9fdfe39.png",
     "index.html": "/ClubWebSite/index.html",
-    "main.3ab525ad.css.map": "/ClubWebSite/static/css/main.3ab525ad.css.map",
-    "main.9950b8f9.js.map": "/ClubWebSite/static/js/main.9950b8f9.js.map",
+    "main.94bc2f90.css.map": "/ClubWebSite/static/css/main.94bc2f90.css.map",
+    "main.f0ad3b50.js.map": "/ClubWebSite/static/js/main.f0ad3b50.js.map",
     "787.8385a471.chunk.js.map": "/ClubWebSite/static/js/787.8385a471.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ab525ad.css",
-    "static/js/main.9950b8f9.js"
+    "static/css/main.94bc2f90.css",
+    "static/js/main.f0ad3b50.js"
   ]
 }
