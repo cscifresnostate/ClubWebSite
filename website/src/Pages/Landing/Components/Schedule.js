@@ -103,7 +103,7 @@ const Schedule = (props) => {
                     </div>
 
                     <a rel="noopener noreferrer" target="_blank" href={discord_link} style={{alignSelf: 'center'}}> 
-                        <p style={{ fontWeight: 'bold'}}><SiDiscord color='#7289da' size={80} /> Join Disocrd for latets updates on events! </p>
+                        <p style={{ fontWeight: 'bold'}}><SiDiscord color='#7289da' size={80} /> Join Discord for latest updates on events! </p>
                     </a>
 
                     <a rel="noopener noreferrer" target="_blank" href={instagram_link} style={{alignSelf: 'center'}}> 

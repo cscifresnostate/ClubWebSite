@@ -26,7 +26,7 @@ const Footer = () => {
             <p className="footer-text"> Pages: </p> 
             <p> <Nav.Link as={Link} to={Home_path}>Home</Nav.Link> </p>
             <p> <Nav.Link as={Link} to={Proj1_path}>2022/Proj1</Nav.Link> </p>
-            <p> <Nav.Link as={Link} to={Proj2_path}>2022/Proj2</Nav.Link> </p>
+            {/* <p> <Nav.Link as={Link} to={Proj2_path}>2022/Proj2</Nav.Link> </p> */}
             <p> <Nav.Link as={Link} to={About_path}>About</Nav.Link> </p>
 
         </div>
@@ -43,9 +43,9 @@ const Footer = () => {
 
         <div> 
             <p className="footer-text"> Have feedback or Request? </p>
-            <p> <a href={feedbackSurvey_link}> Fill Out This Survey To Give Feedback. </a> </p>
+            <p> <a href={feedbackSurvey_link}> Fill Out This Survey To Give Feedbacks </a> </p>
             <p> <a href={request_link}> Make Request For A Workshop </a> </p>
-            <p> <a href={officerApply_link}> Apply for officer positons </a> </p>
+            <p> <a href={officerApply_link}> Apply for officer positions </a> </p>
 
         </div>
 
