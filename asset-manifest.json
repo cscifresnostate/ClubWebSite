@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/ClubWebSite/static/css/main.94bc2f90.css",
-    "main.js": "/ClubWebSite/static/js/main.81dc5b4c.js",
+    "main.js": "/ClubWebSite/static/js/main.6a7b5116.js",
     "static/js/787.8385a471.chunk.js": "/ClubWebSite/static/js/787.8385a471.chunk.js",
     "static/media/logo.png": "/ClubWebSite/static/media/logo.cfa3e0f750fc1e9ecdb2.png",
     "static/media/workshop_2.jpg": "/ClubWebSite/static/media/workshop_2.7927484146ad3aff1cdc.jpg",
     "static/media/workshop.jpg": "/ClubWebSite/static/media/workshop.324786285fba584fb1ee.jpg",
     "static/media/testing.jpg": "/ClubWebSite/static/media/testing.e1c2471e3a1cb642f7ef.jpg",
-    "static/media/fslogo.png": "/ClubWebSite/static/media/fslogo.65555d5008a44f330d0e.png",
     "static/media/techs.png": "/ClubWebSite/static/media/techs.f18075477e89f9fdfe39.png",
     "index.html": "/ClubWebSite/index.html",
     "main.94bc2f90.css.map": "/ClubWebSite/static/css/main.94bc2f90.css.map",
-    "main.81dc5b4c.js.map": "/ClubWebSite/static/js/main.81dc5b4c.js.map",
+    "main.6a7b5116.js.map": "/ClubWebSite/static/js/main.6a7b5116.js.map",
     "787.8385a471.chunk.js.map": "/ClubWebSite/static/js/787.8385a471.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94bc2f90.css",
-    "static/js/main.81dc5b4c.js"
+    "static/js/main.6a7b5116.js"
   ]
 }
