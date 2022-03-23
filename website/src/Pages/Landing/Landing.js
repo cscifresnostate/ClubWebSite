@@ -3,7 +3,7 @@ import SlideShow from './Components/Slideshow';
 import Banner from './Components/Banner';
 import Schedule from './Components/Schedule';
 import Fountains from './Components/Accordians'; 
-import FresnoStateLogo from './Util/fslogo.png'; 
+import CSciClubLogo from '../../Util/logo.png'; 
 import TechLogo from './Util/techs.png';
 import Data from './Util/text_landing.json'; 
 
@@ -15,7 +15,7 @@ const Landing = (props) => {
             <SlideShow />
             <Banner 
                 mainText={Data.mission.mainText} 
-                img={FresnoStateLogo} 
+                img={CSciClubLogo} 
                 header={Data.mission.header} 
                 direction={Data.mission.direction} 
                 spinType={Data.mission.spinType}
