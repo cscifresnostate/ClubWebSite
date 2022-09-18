@@ -24,9 +24,7 @@ const Schedule = (props) => {
     return (
         <div style={{paddingTop: '50px', paddingBottom: '50px'}}> 
             <h1 className="title-schedule"> 2022 Events, Workshops, and Study Room Hours: </h1>
-            
             <div className="container-schedule">
-
                 <div className='left-schedule'> 
                     <div className='wrap-schedule'> 
                         <img
@@ -45,7 +43,7 @@ const Schedule = (props) => {
                                 From 12pm-1pm on wednesday we hold workshops for students to learn new technologies or share they projects.  
                             </li>
                             <li className='text-schedule'>
-                                From 10am-12pm and 1pm-3pm the Computer Science Romm will be open for students to study, or hang out and meet other students!
+                                From 10am-12pm and 1pm-3pm the Computer Science Room will be open for students to study, or hang out and meet other students!
                             </li>
                         </ul>
                     </div>
@@ -59,9 +57,7 @@ const Schedule = (props) => {
                     <a rel="noopener noreferrer" target="_blank" href={github_link} style={{alignSelf: 'center'}}> 
                         <p style={{ fontWeight: 'bold'}}><GoLogoGithub color='black' size={100} />Check Out The Code Our Previous Workshops! </p>
                     </a>
-
                 </div>
-
                 <div className="right-schedule"> 
                     <div className="wrap-schedule"> 
                         <img
